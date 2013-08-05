@@ -47,10 +47,10 @@
 $active_group = 'default';
 $active_record = TRUE;
  
-$db['default']['hostname'] = '[YOUR DB-HOST HERE]';
-$db['default']['username'] = '[YOUR DB-USER HERE]';
-$db['default']['password'] = '[YOUR DB-PASSWORD HERE]';
-$db['default']['database'] = '[YOUR DB-NAME HERE]';
+$db['default']['hostname'] = '[localhost]';
+$db['default']['username'] = '[webpanelstoreheaven]';
+]';$db['default']['password'] = '[fipnovocnu56]';
+$db['default']['database'] = '[my_webpanelstoreheaven]';
 $db['default']['dbdriver'] = 'mysql';
 $db['default']['dbprefix'] = '';
 $db['default']['pconnect'] = TRUE;
